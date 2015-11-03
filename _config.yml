@@ -1,0 +1,23 @@
+name: Ormsby
+favicon: null
+layout_spectrum: 0.2451563160866499
+typography_spectrum: 0.06665112404152751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.13447937299497426
+  lightness: 0.014412832912057638
+  saturation: 0.41075514745898545
+  rhythmicContrast: 0.13449949910864234
+purpose: []
