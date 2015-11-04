@@ -5,10 +5,10 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.stuff.co.nz'
   name: Stuff
-  favicon: 'http://www.stuff.co.nz/etc/designs/ffx/nz/stuff/clientlibs-all/images/tab-icon.ico'
   domain: www.stuff.co.nz
+  url: 'http://www.stuff.co.nz'
+  favicon: 'http://www.stuff.co.nz/etc/designs/ffx/nz/stuff/clientlibs-all/images/tab-icon.ico'
 keywords:
   - amazon
   - books
@@ -25,13 +25,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.stuff.co.nz/business/world/73678321/amazon-opening-a-brickandmortar-bookstore'
 title: Amazon opening bookstore
-datePublished: '2015-11-04T00:30:27.489Z'
-dateModified: '2015-11-04T00:19:32.635Z'
+datePublished: '2015-11-04T00:44:03.259Z'
+dateModified: '2015-11-04T00:44:00.091Z'
 sourcePath: _posts/2015-11-04-amazon-opening-bookstore.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: false
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
